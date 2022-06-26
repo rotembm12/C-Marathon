@@ -1,0 +1,17 @@
+C:\Users\rotem\CSharp\DatingApp\DatingApp\bin\Debug\net6.0-windows\DatingApp.exe
+C:\Users\rotem\CSharp\DatingApp\DatingApp\bin\Debug\net6.0-windows\DatingApp.deps.json
+C:\Users\rotem\CSharp\DatingApp\DatingApp\bin\Debug\net6.0-windows\DatingApp.runtimeconfig.json
+C:\Users\rotem\CSharp\DatingApp\DatingApp\bin\Debug\net6.0-windows\DatingApp.dll
+C:\Users\rotem\CSharp\DatingApp\DatingApp\bin\Debug\net6.0-windows\DatingApp.pdb
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.csproj.AssemblyReference.cache
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.Form1.resources
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.csproj.GenerateResource.cache
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.AssemblyInfoInputs.cache
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.AssemblyInfo.cs
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.dll
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\refint\DatingApp.dll
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.pdb
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\DatingApp.genruntimeconfig.cache
+C:\Users\rotem\CSharp\DatingApp\DatingApp\obj\Debug\net6.0-windows\ref\DatingApp.dll
